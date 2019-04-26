@@ -1,4 +1,4 @@
-##This is an app that is built using laravel backend api and vue js for frontend.
+## This is an app that is built using laravel backend api and vue js for frontend.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
